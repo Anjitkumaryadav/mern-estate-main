@@ -292,4 +292,3 @@ export default function Profile() {
     </div>
   );
 }
-//profile
